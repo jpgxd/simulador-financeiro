@@ -19,7 +19,7 @@ Com essa ferramenta o usuário pode:
 
 ## Estrutura do Repositório
 
-.
+
 ├── Simulador Financeiro.xlsx      # Planilha principal  
 └── README.md         # Este arquivo  
 
